@@ -1,0 +1,6 @@
+DateTime-Week
+--------------------
+
+DateTime is a class for the programming language Perl to work with dates and times.
+This is an additional class to create DateTime objects according to a given week,
+year and weekday combination.
